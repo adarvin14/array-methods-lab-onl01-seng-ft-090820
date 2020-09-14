@@ -1,10 +1,5 @@
 def using_include(array, element)
-
  array.include?(element)
-=======
- array = ["element1", "element2", "element3", "element4"]
- array.include?("element2")
-
 end
 
 def using_sort(array)
